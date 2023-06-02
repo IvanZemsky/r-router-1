@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/IvanZemsky/r-router-1/static/css/main.073c9b0a.css",
-    "main.js": "/IvanZemsky/r-router-1/static/js/main.c643ceb7.js",
-    "static/js/787.ddd9d228.chunk.js": "/IvanZemsky/r-router-1/static/js/787.ddd9d228.chunk.js",
-    "static/media/logo.svg": "/IvanZemsky/r-router-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/IvanZemsky/r-router-1/static/js/main.512504da.js",
     "index.html": "/IvanZemsky/r-router-1/index.html",
-    "main.073c9b0a.css.map": "/IvanZemsky/r-router-1/static/css/main.073c9b0a.css.map",
-    "main.c643ceb7.js.map": "/IvanZemsky/r-router-1/static/js/main.c643ceb7.js.map",
-    "787.ddd9d228.chunk.js.map": "/IvanZemsky/r-router-1/static/js/787.ddd9d228.chunk.js.map"
+    "main.512504da.js.map": "/IvanZemsky/r-router-1/static/js/main.512504da.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c643ceb7.js"
+    "static/js/main.512504da.js"
   ]
 }
