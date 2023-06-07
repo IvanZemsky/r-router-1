@@ -4,6 +4,8 @@ import Blogpage from './components/Blogpage.js'
 import Homepage from './components/Homepage.js'
 import Notfoundpage from './components/Notfoundpage.js'
 
+import './style.css'
+
 import { Layout } from './components/Layout.js'
 
 function App() {
