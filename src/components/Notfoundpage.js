@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Homepage() {
+function Notfoundpage() {
   return (
     <div>Not found</div>
   )
 }
 
-export default Homepage
+export {Notfoundpage}
