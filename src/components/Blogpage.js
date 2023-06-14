@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 function Blogpage() {
 
@@ -15,6 +15,7 @@ function Blogpage() {
   return (
     <div>
       Blogpage
+      <Link to='/posts/new'>Add new post</Link>
       {
         posts.map(post => (
           <Link key={post.id} to={`/posts/${post.id}`}>

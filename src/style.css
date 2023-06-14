@@ -4,6 +4,14 @@
    box-sizing: border-box;
 }
 
+body{
+   color: black;
+}
+
+a{
+   color: inherit;
+}
+
 #root{
    display: flex;
    flex-direction: column;
@@ -19,7 +27,6 @@ header {
 
 header a{
    display: inline-block;
-   color: inherit;
    margin-right: 25px;
 }
 
