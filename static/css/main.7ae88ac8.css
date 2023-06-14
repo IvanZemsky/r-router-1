@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{color:#000}a{color:inherit}#root{display:flex;flex-direction:column;height:100vh;min-height:600px}header{background-color:#1e1e1e;color:#fff;padding:15px}header a{display:inline-block;margin-right:25px}header a:last-child{margin-right:0}.active-link{color:red}footer,header+*{padding:15px}footer{margin-top:auto}
+/*# sourceMappingURL=main.7ae88ac8.css.map*/
